@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *  Lists all the multiples of 3 or 5. 1024
+ * main -  Lists all the multiples of 3 or 5. 1024
  *
  * Return: Always 0.
  */
