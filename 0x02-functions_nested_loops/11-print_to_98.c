@@ -2,6 +2,7 @@
 
 /**
  * print_to_98 -  Prints all natural numbers to 98
+ * @n: number to start count at
  */
 void print_to_98(int n)
 {
