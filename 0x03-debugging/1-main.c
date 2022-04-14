@@ -9,6 +9,13 @@ int main(void)
 {
 int i;
 
+/*
+ * while (i < 10)
+ * {
+ * putchar(i);
+ * }
+ */
+
 printf("Infinite loop incoming :(\n");
 i = 0;
 
