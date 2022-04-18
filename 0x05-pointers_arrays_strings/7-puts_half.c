@@ -1,4 +1,6 @@
-lf - print second half of a string
+#include "holberton.h"
+/**
+ * puts_half - print second half of a string
  * @str: char array string type
  * Description: If odd number of chars, print (length - 1) / 2
  */

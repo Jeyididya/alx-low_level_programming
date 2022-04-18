@@ -1,3 +1,4 @@
+#include "holberton.h"
 /**
  * puts2 - prints a string, followed by a new line,
  * @str: pointer to the string to print
