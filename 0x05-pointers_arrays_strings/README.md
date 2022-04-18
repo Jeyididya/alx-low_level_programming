@@ -1,0 +1,1 @@
+pointers strings with c
