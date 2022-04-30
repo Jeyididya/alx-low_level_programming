@@ -1,0 +1,2 @@
+static libraries with c
+
