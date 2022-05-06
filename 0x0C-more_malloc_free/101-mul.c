@@ -48,6 +48,7 @@ char *_initialize_array(char *ar, int lar)
 
 {
 	int i = 0;
+
 	for (i = 0; i < lar; i++)
 		ar[i] = '0';
 	ar[lar] = '\0';
@@ -68,6 +69,7 @@ int _checknum(char *argv[], int n)
 
 {
 	int ln;
+
 	for (ln = 0; argv[n][ln]; ln++)
 		if (!isdigit(argv[n][ln]))
 		{
